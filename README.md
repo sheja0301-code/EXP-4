@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** |SHEJASHRI L J| **Reg. No.:** | |
+| **Name:** |SHEJASHRI L J| **Reg. No.:** |26016939|
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |25-11-2026 | **Batch / Section:** |26ODJ150 |
 
 ---
 
@@ -53,25 +53,29 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Half wave rectifier without filter
 
-*[ Insert the half wave rectifier without filter circuit diagram here ]*
+<img width="1912" height="1062" alt="Screenshot 2026-11-25 102757" src="https://github.com/user-attachments/assets/5c416060-0a7b-4d14-b31e-0b25d8a03c65" />
+
 
 **Figure 1:** Half wave rectifier without filter
 
 ### Half wave rectifier with filter
 
-*[ Insert the half wave rectifier with filter circuit diagram here ]*
+<img width="1902" height="1063" alt="Screenshot 2026-11-25 103051" src="https://github.com/user-attachments/assets/1b054f9b-7c5e-4e22-bbd4-39d7500b6862" />
+
 
 **Figure 2:** Half wave rectifier with filter
 
 ### Full wave bridge rectifier without filter
 
-*[ Insert the full wave bridge rectifier without filter circuit diagram here ]*
+<img width="1915" height="1055" alt="Screenshot 2026-11-25 105057" src="https://github.com/user-attachments/assets/001439aa-86a8-436e-9063-a2b8d113d3c0" />
+
 
 **Figure 3:** Full wave bridge rectifier without filter
 
 ### Full wave bridge rectifier with filter
 
-*[ Insert the full wave bridge rectifier with filter circuit diagram here ]*
+<img width="1916" height="1071" alt="Screenshot 2026-11-25 105825" src="https://github.com/user-attachments/assets/f2838360-df5e-4406-b0cf-aa9e4bf5b0ae" />
+
 
 **Figure 4:** Full wave bridge rectifier with filter
 
